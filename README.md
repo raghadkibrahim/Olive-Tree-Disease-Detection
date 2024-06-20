@@ -22,8 +22,6 @@ The Olive Tree, an ancient symbol of peace and endurance, holds significant cult
 > > 2.1 [Installation](#2.1)  
 > > 2.2 [Directory Structure](#2.2)
 > 
-> 3. []
-> 
 <hr>
 
 <a id='1'></a>
