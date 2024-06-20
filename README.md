@@ -61,7 +61,7 @@ gh repo clone raghadkibrahim/Olive-Tree-Disease-Detection
 ```
 
 <a id='2.2'></a>
-## Directory Structure
+## 2.2 Directory Structure
 [(Back to top)](#table-of-contents)
 
 ```
