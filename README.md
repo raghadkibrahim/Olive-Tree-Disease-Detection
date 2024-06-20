@@ -1,4 +1,4 @@
-"If the Olive Trees knew the hands that planted them, Their Oil would become Tears." - Mahmoud Darwish
+> "If the Olive Trees knew the hands that planted them, Their Oil would become Tears." - Mahmoud Darwish
 
 My first project is dedicated to my dear grandfather, the wisest and most peaceful man that I have ever known. He was displaced in 1976 and passed away in 2015 far away from his beloved trees, or any trees for that matter, in the refugee camps of Zarqa, Jordan. Growing up, he vehemently refused to move to a better place unless it was to go back home to his Olive Trees. He never did.
 
