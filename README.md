@@ -3,14 +3,10 @@
 # Olive Trees Disease Detection
 This project explores the application of computer vision techniques for the analysis and classification of leaf images to identify potential diseases in the tree. The dataset used in this paper consists of images of leaves from three classes: healthy leaves, leaves infected with Aculus Olearius disease, and leaves affected by Peacock Spot disease. The goal is to develop an image classification model capable of accurately distinguishing between these classes based on features extracted from the images. Overall, this project aims to contribute to the field of agricultural diagnostics by providing a reliable tool for automated detection and classification of leaf diseases.
 
-### Objectives:
-- Construct a model for image classification of diseases in olive leaves
-
 ### [Table of Contents](#table-of-contents)
 > 1. [Project Overview](#1)
 > > 1.1 [Motivation](#1.1)  
 > > 1.2 [Dataset](#1.2)
-> 
 > 2. [Set up](#2)
 > > 2.1 [Installation](#2.1)  
 > > 2.2 [Directory Structure](#2.2)
