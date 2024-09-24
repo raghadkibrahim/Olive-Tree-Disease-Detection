@@ -19,7 +19,6 @@ The dataset used in this project is a collection of over 3,400 images of olive l
 
 <a id='2'></a>
 # 2. Set up
-
 <a id='2.1'></a>
 ## 2.1 Installation
 [(Back to top)](#table-of-contents)
