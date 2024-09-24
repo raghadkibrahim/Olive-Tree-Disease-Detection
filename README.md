@@ -4,7 +4,7 @@
 > 2. [Set up](#2)
 > > 2.1 [Installation](#2.1)  
 > > 2.2 [Directory Structure](#2.2)
-<hr>
+
 
 <a id='1'></a>
 # 1. Project Overview
@@ -15,7 +15,7 @@ The dataset used in this project is a collection of over 3,400 images of olive l
 2.  Leaves infected with peacock spot.
 3. Healthy olive leaves.
 
-<hr>
+
 
 
 <a id='2'></a>
@@ -57,8 +57,5 @@ $ ls
 |- environment.yml
 ```
 
-<a id='2'></a>
-## 2.2 Dataset:
-[(Back to top)](#table-of-contents)
 
 
