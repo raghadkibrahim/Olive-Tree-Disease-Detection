@@ -15,14 +15,14 @@ The dataset used in this project is a collection of over 3,400 images of olive l
 2.  Leaves infected with peacock spot.
 3. Healthy olive leaves.
 
-
+[(Back to top)](#table-of-contents)
 
 
 <a id='2'></a>
 ## 2. Set up
 <a id='2.1'></a>
 **2.1 Installation**
-[(Back to top)](#table-of-contents)
+
 
 ```shell
 gh repo clone raghadkibrahim/Olive-Tree-Disease-Detection
@@ -30,7 +30,7 @@ gh repo clone raghadkibrahim/Olive-Tree-Disease-Detection
 
 <a id='2.2'></a>
 **2.2 Directory Structure**
-[(Back to top)](#table-of-contents)
+
 
 ```
 $ pwd
@@ -56,6 +56,6 @@ $ ls
       |- peacock_spot
 |- environment.yml
 ```
-
+[(Back to top)](#table-of-contents)
 
 
